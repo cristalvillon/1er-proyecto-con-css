@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: rgb(34, 33, 61);
+}
+h2 {
+    color:rgb(92, 80, 148)
+}
+p {
+    color:brown
+}
+.img-01 {
+    width: 300px;
+    height: 200px;
+    border-radius: 25px;
+    display: block;
+    margin-bottom: 15px;
+}
+a {
+    color: #450c47;
+    text-shadow: 2px 2px 4px rgba(2, 2, 2, 0.808);
+}
+    
+ li {
+    list-style-type: square; /* Viñetas cuadradas */
+    padding-left: 8px; 
+}
